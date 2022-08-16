@@ -1,0 +1,126 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background: #F3F5FC;
+}
+
+.container{
+    margin: auto;
+    width: 960px;
+    height: 700px;
+    padding: 5px;
+   
+
+}
+
+.logo{
+    width: 100%;
+    float: left;
+    
+}
+
+.left{
+    float: left;
+    width: 70%;
+    height:62%;
+    
+    border-radius: 25px;
+
+}
+
+.right{
+    float: right;
+    width: 30%;
+    height:auto;
+    
+    border-radius: 25px;
+    
+}
+
+.left-button{
+    float: left;
+    width: 70%;
+    height:auto;
+    
+    border-radius: 25px;
+
+}
+
+.logo{
+    float:inherit;
+    margin-top: 1%;
+    margin-left: 1%;
+    height: auto;
+    width: auto;}
+
+
+.tittle{
+    float:inherit;
+    margin-left: 1%;
+}
+
+.input{
+    float: left;
+    width: 80%;
+    height:80%;
+    background: white;
+    border-radius: 25px;
+    border:none;
+    outline:none;
+    margin-top: 7%;
+    margin-left: 10%;
+    font-size: 20px;
+    }
+
+#imagen{
+    margin-left: 1%;
+    margin-top: 10%;
+    height: 80%;
+    width: 100%;
+}
+
+#texto1{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#texto2{
+    float: left;
+    margin-left: 10%;
+    width: 80%;
+    height:60%;
+    border: none;
+    outline: none;
+    font-size:15px;
+    color:#0A3871;
+}
+
+#btn1{
+    width: 30%;
+    padding: 25px;
+    height: 60%;
+    border-radius: 25px;
+    margin-left: 15%;
+    background: #0A3871;
+}
+
+#btn2{
+    width: 30%;
+    padding: 25px;
+    height: 60%;
+    border-radius: 25px;
+    margin-left: 10%;
+    background: #D8DFE8;
+}
+
+#copiar{
+    margin-left: 30%;
+    margin-top: 90%;
+    padding: 25px;
+    width: 40%;
+    height: 10%;
+    background:#D8DFE8;
+    border-radius: 25px;
+    display: none;
+
+}
